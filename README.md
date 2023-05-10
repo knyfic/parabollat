@@ -9,6 +9,9 @@
 # Installation <br />
 First, make sure you have installed Python, Python 3, pip, and the necessary software for pip.
 >```
->cd $HOME/.local/share/ && git clone https://github.com/knyfic/parabollat && chmod +755 /parabollat/install.js && /parabolat/.install.js
+>cd $HOME/.local/share/ && git clone https://github.com/knyfic/parabollat
+>```<br />
+>```
+>chmod +755 /parabollat/install.js && cd parabollat && ./install.js
 >```
 
