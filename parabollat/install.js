@@ -4,7 +4,7 @@ pip install pygobject matplotlib numpy
 
 echo "[Desktop Entry]
 Name=Parabollat
-Exec=python3 $HOME/.local/share/parabollat/parabollatparabollat.py
+Exec=python3 $HOME/.local/share/parabollat/parabollat/parabollat.py
 Icon=$HOME/.local/share/parabollat/parabollat/parabollat.png
 Terminal=false
 Type=Application
