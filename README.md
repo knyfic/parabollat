@@ -4,7 +4,7 @@
  <img src="https://i.imgur.com/zDCIxk4.png">
 </p>
 <!-- Horizontal Lines -->
-<hr style="border-top: 3px dotted #998143">
+<hr style="border-top: 3px dotted #998143"><br />
 # Installation
 
 
