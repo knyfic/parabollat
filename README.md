@@ -5,6 +5,7 @@
 </p>
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143"><br />
-# Installation
+
+# Installation <br />
 
 
