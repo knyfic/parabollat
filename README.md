@@ -14,6 +14,6 @@ First, make sure you have installed Python, Python 3, pip, and the necessary sof
 
 
 >```
->chmod +755 /parabollat/install.js && cd parabollat && ./install.js
+>chmod +755 /parabollat/parabollat/install.js && cd /parabollat/parabollat && ./install.js
 >```
 
