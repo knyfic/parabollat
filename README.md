@@ -7,6 +7,7 @@
 <hr style="border-top: 3px dotted #998143">
 
 # Installation <br />
+First, make sure you have installed Python, Python 3, pip, and the necessary software for pip.
 >```
 >mkdir $HOME/.local/share/parabollat && cd $HOME/.local/share/parabollat && git clone https://github.com/knyfic/kgruvbox && chmod +755 install.js && ./install.js
 >```
