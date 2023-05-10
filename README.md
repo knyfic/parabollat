@@ -8,6 +8,6 @@
 
 # Installation <br />
 >```
->cd $HOME/.local/share && mkdir parabollat && cd parabollat && clone https://github.com/knyfic/kgruvbox
+>mkdir $HOME/.local/share/parabollat && cd $HOME/.local/share/parabollat && git clone https://github.com/knyfic/kgruvbox
 >```
 
