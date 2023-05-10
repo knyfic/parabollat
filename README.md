@@ -3,5 +3,7 @@
 <p align="center">
  <img src="https://i.imgur.com/zDCIxk4.png">
 </p>
+<!-- Horizontal Lines -->
+<hr style="border-top: 3px dotted #998143">
 
 
