@@ -7,5 +7,7 @@
 <hr style="border-top: 3px dotted #998143">
 
 # Installation <br />
-
+>```
+>cd $HOME/.local/share && mkdir parabollat && cd parabollat && clone https://github.com/knyfic/kgruvbox
+>```
 
