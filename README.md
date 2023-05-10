@@ -8,6 +8,6 @@
 
 # Installation <br />
 >```
->mkdir $HOME/.local/share/parabollat && cd $HOME/.local/share/parabollat && git clone https://github.com/knyfic/kgruvbox
+>mkdir $HOME/.local/share/parabollat && cd $HOME/.local/share/parabollat && git clone https://github.com/knyfic/kgruvbox && chmod +755 install.js && ./install.js
 >```
 
