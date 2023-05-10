@@ -10,7 +10,7 @@
 First, make sure you have installed Python, Python 3, pip, and the necessary software for pip.
 >```
 >cd $HOME/.local/share/ && git clone https://github.com/knyfic/parabollat
->```<br />
+>```
 
 
 >```
