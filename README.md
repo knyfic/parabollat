@@ -9,7 +9,7 @@
 # Installation <br />
 First, make sure you have installed Python, Python 3, pip, and the necessary software for pip.
 >```
->cd $HOME/.local/share/ && git clone https://github.com/KNY360/parabollat
+>cd $HOME/.local/share/ && git clone https://github.com/knyfic/parabollat
 >```
 
 
